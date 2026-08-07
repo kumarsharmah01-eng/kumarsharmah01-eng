@@ -67,7 +67,7 @@ Currently practicing:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark" />
+<img src="https://streak-stats.demolab.com/?user=kumarsharmah01-eng&theme=dark" />
 
 </p>
 
@@ -91,13 +91,13 @@ A full Stack Math club Website , Personal Portfolio
 
 ---
 
-<!--## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kumarsharmah01-eng&theme=darkhub&row=1&column=6" />
 
-</p> -->
+</p> 
 
 ---
 
@@ -105,7 +105,7 @@ A full Stack Math club Website , Personal Portfolio
 
 <p align="center">
 
-<a href="linkedin.com/in/harsh-kumar-sharma-b009aa23b">
+<a href="https://linkedin.com/in/harsh-kumar-sharma-b009aa23b">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
