@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | DSA Enthusiast | Engineering Student
+  Learning Full Stack Development | DSA Enthusiast | Engineering Student
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Engineering Student
-- 💻 Full Stack Developer
+- 💻 Learning Full Stack Development
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Building real-world projects
 - 🌱 Currently improving my backend skills
@@ -26,19 +26,19 @@
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,java" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
 </p>
 
 ## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
 </p>
 
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -47,18 +47,7 @@
 
 Currently practicing:
 
-- Arrays
-- Strings
-- Recursion
-- Hashing
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Linked Lists
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
+- Arrays- Strings- Recursion- Hashing- Two Pointers- Sliding Window- Binary Search- Linked Lists- Stack & Queue- Trees- Graphs- Dynamic Programming
 
 ---
 
@@ -86,21 +75,19 @@ Currently practicing:
 
 ## 🚀 Featured Projects
 
-### Project 1
+### Mini Project
 
-Description of your project.
 
-**Tech:** React • Node.js • MongoDB
 
-[Live Demo](YOUR_LINK) | [Source Code](YOUR_LINK)
+**Tech:** Html • CSS • JS
 
-### Project 2
+[Live Demo](https://rock-paper-scissor-eight-taupe.vercel.app/) | [Source Code](https://github.com/kumarsharmah01-eng/rock-paper-scissor)
 
-Description of your project.
+### Currently working on
 
-**Tech:** HTML • CSS • JavaScript
+A full Stack Math club Website , Personal Portfolio
 
-[Live Demo](YOUR_LINK) | [Source Code](YOUR_LINK)
+** Using Tech:** HTML • CSS • JavaScript • Node.js • MongoDB • React 
 
 ---
 
@@ -118,13 +105,13 @@ Description of your project.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="linkedin.com/in/harsh-kumar-sharma-b009aa23b">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<!---<a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
-</a>
+</a>--->
 
 </p>
 
@@ -135,9 +122,7 @@ Description of your project.
 </p>
 <!--
 **kumarsharmah01-eng/kumarsharmah01-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
