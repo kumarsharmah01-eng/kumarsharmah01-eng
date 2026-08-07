@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Learning Full Stack Development | DSA Enthusiast | Engineering Student
+  Learning Full Stack Development | Learning DSA | Engineering Student
 </h3>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 Currently practicing:
 
-- Arrays- Strings- Recursion- Hashing- Two Pointers- Sliding Window- Binary Search- Linked Lists- Stack & Queue- Trees- Graphs- Dynamic Programming
+- Arrays- Strings- Recursion- Hashing- Two Pointers- Sliding Window- Binary Search- Linked Lists
 
 ---
 
@@ -91,13 +91,13 @@ A full Stack Math club Website , Personal Portfolio
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1&column=6" />
 
-</p>
+</p> -->
 
 ---
 
