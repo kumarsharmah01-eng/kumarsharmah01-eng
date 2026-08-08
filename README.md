@@ -63,13 +63,13 @@ Currently practicing:
 
 ---
 
-## 🔥 GitHub Streak
+<!--## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=kumarsharmah01-eng&theme=dark" />
 
-</p>
+</p>-->
 
 ---
 
@@ -91,13 +91,13 @@ A full Stack Math club Website , Personal Portfolio
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=kumarsharmah01-eng&theme=darkhub&row=1&column=6" />
 
-</p> 
+</p> -->
 
 ---
 
