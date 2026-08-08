@@ -51,7 +51,7 @@ Currently practicing:
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
 
@@ -59,17 +59,17 @@ Currently practicing:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsharmah01-eng&layout=compact&theme=dark" />
 
-</p>
+</p>-->
 
 ---
 
-<!--## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=kumarsharmah01-eng&theme=dark" />
 
-</p>-->
+</p>
 
 ---
 
