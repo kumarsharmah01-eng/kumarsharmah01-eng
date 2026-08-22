@@ -48,7 +48,7 @@
 
 Currently practicing:
 
-- Arrays- Strings- Recursion- Hashing- Two Pointers- Sliding Window- Binary Search- Linked Lists
+- Arrays- Strings- Recursion- Hashing- Two Pointers- Sliding Window- Binary Search- Linked Lists- Stack- Queue
 
 ---
 
