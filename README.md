@@ -32,7 +32,8 @@
 ## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,sql,reactjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs" />
+<img src="https://skillicons.dev/icons?i=mongodb,reactjs"/>
 </p>
 
 ## 🛠 Tools
